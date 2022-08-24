@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @orhanyalcintas
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in watching movie, search, study, reading
+- 🌱 I’m currently learning html,css,php, javascript, .net, python
+
+- 💞️ I’m looking to collaborate on in all matters ..
+- 📫 How to reach me orhnylcntas@gmail.com 
 
 <!---
 orhanyalcintas/orhanyalcintas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
